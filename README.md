@@ -1,1 +1,3 @@
-# M-Files-Template-Custom-Right-Click-Action-With-Managed-Code
+# M-Files Template - Custom Right Click Action With Managed Code
+## How to Install
+- 
