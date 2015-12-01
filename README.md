@@ -1,4 +1,6 @@
 # M-Files Template - Custom Right Click Action With Managed Code
+This project is deprecated. Please see my project that has a VAF application with a nested UI Extensibility app
+
 ## How to Install
 - Download Zip of project
 - Unzip
