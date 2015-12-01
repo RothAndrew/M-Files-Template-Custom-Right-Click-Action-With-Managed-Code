@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<application
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="http://www.m-files.com/schemas/appdef.xsd">
+  <guid>$guid1$</guid>
+  <name>$projectname$</name>
+  <description>$projectname$</description>
+  <publisher>$registeredorganization$</publisher>
+  <version>1.0.0.0</version>
+  <copyright></copyright>
+  <required-mfiles-version>10.1.3915.45</required-mfiles-version>
+  <modules>
+    <module environment="shellui">
+      <file>main.js</file>
+    </module>
+  </modules>
+</application>
